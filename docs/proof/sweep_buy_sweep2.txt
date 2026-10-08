@@ -1,0 +1,11 @@
+176091 bars, replay from 2018-01-01 09:15:00+05:30
+ATM, 1pt slip                            n  504  win   42%  PF 0.71  exp  -1.9%  net  -1053 pts  dd 1088  2026 47 / 43% / -141    exits {'SL': 276, 'TRAIL': 131, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+ITM2 (100 pts), 1pt slip                 n  505  win   43%  PF 0.78  exp  -1.1%  net   -920 pts  dd  980  2026 47 / 43% / -113    exits {'SL': 276, 'TRAIL': 132, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+ITM4 (200 pts), 1pt slip                 n  505  win   44%  PF 0.84  exp  -0.8%  net   -768 pts  dd  851  2026 47 / 43% / -83     exits {'SL': 276, 'TRAIL': 132, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+ITM6 (300 pts), 1pt slip                 n  505  win   44%  PF 0.88  exp  -0.5%  net   -623 pts  dd  755  2026 47 / 43% / -52     exits {'SL': 276, 'TRAIL': 132, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+ITM6, 2pt slip                           n  505  win   41%  PF 0.71  exp  -1.4%  net  -1633 pts  dd 1695  2026 47 / 40% / -146    exits {'SL': 276, 'TRAIL': 132, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+ITM6 dte>=3, 1pt slip                    n  252  win   41%  PF 0.79  exp  -0.6%  net   -506 pts  dd  720  2026 18 / 50% / -8      exits {'SL': 145, 'TRAIL': 62, 'T2': 37, 'SQOFF': 6, 'TIME': 2}
+ITM6 no vwap_reclaim                     n  249  win   47%  PF 0.97  exp  -0.1%  net    -84 pts  dd  541  2026 24 / 29% / -189    exits {'SL': 133, 'TRAIL': 67, 'T2': 43, 'SQOFF': 5, 'TIME': 1}
+ATM no vwap_reclaim                      n  248  win   44%  PF 0.80  exp  -1.2%  net   -360 pts  dd  541  2026 24 / 29% / -190    exits {'SL': 133, 'TRAIL': 66, 'T2': 43, 'SQOFF': 5, 'TIME': 1}
+ITM6 no reclaim, 09:30-12:00             n  158  win   47%  PF 0.96  exp  -0.0%  net    -57 pts  dd  314  2026 17 / 35% / -118    exits {'SL': 83, 'TRAIL': 48, 'T2': 26, 'TIME': 1}
+ATM no reclaim, 09:30-12:00              n  158  win   47%  PF 0.80  exp  -1.1%  net   -230 pts  dd  345  2026 17 / 35% / -116    exits {'SL': 83, 'TRAIL': 48, 'T2': 26, 'TIME': 1}

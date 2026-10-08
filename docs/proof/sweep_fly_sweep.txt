@@ -1,0 +1,26 @@
+176091 bars, replay from 2018-01-01 09:15:00+05:30
+base (tp .5 sl 1.0 wing 300 iv x1.05)        n  1026  win   50%  PF 1.82  net  +3414  dd  318  worst  -119  2024 142 / 33% / -121   2026 94 / 41% / +148    exits {'TIME': 1026}
+iv x1.00                                     n  1026  win   50%  PF 1.65  net  +2905  dd  388  worst  -125  2024 142 / 35% / -187   2026 94 / 43% / +126    exits {'TIME': 1026}
+iv x0.95                                     n  1026  win   50%  PF 1.47  net  +2299  dd  486  worst  -132  2024 142 / 33% / -269   2026 94 / 44% / +96     exits {'TIME': 1026}
+iv x0.90                                     n  1026  win   50%  PF 1.30  net  +1582  dd  649  worst  -139  2024 142 / 33% / -367   2026 94 / 44% / +57     exits {'TIME': 1026}
+sl 0.5                                       n  1026  win   50%  PF 1.74  net  +3228  dd  340  worst   -96  2024 142 / 33% / -136   2026 94 / 41% / +87     exits {'TIME': 1018, 'SL': 8}
+sl 0.35                                      n  1026  win   50%  PF 1.80  net  +3359  dd  309  worst   -69  2024 142 / 33% / -127   2026 94 / 41% / +114    exits {'TIME': 1013, 'SL': 13}
+sl 0.5 tp 0.3                                n  1026  win   50%  PF 1.66  net  +2886  dd  340  worst   -96  2024 142 / 33% / -137   2026 94 / 41% / +69     exits {'TIME': 932, 'TP': 86, 'SL': 8}
+sl 0.5 tp 0.2                                n  1026  win   50%  PF 1.37  net  +1613  dd  402  worst   -96  2024 142 / 34% / -197   2026 94 / 41% / -48     exits {'TIME': 846, 'TP': 172, 'SL': 8}
+sl 0.5 iv x1.0                               n  1026  win   50%  PF 1.60  net  +2770  dd  394  worst   -94  2024 142 / 35% / -194   2026 94 / 43% / +69     exits {'TIME': 1016, 'SL': 10}
+sl 0.5 iv x0.95                              n  1026  win   50%  PF 1.45  net  +2235  dd  461  worst   -92  2024 142 / 33% / -267   2026 94 / 44% / +44     exits {'TIME': 1016, 'SL': 10}
+wing 200 sl 0.5                              n  1026  win   26%  PF 0.47  net  -3379  dd 3551  worst   -67  2024 142 / 14% / -1036  2026 94 / 15% / -563    exits {'TIME': 1023, 'SL': 3}
+wing 400 sl 0.5                              n  1026  win   71%  PF 3.57  net  +8756  dd  212  worst  -117  2024 142 / 60% / +732   2026 94 / 65% / +696    exits {'TIME': 1018, 'SL': 8}
+entry 10:15 sl 0.5                           n   961  win   49%  PF 1.64  net  +2558  dd  294  worst   -96  2024 126 / 35% / +47    2026 88 / 42% / +92     exits {'TIME': 953, 'SL': 8}
+entry 09:30 sl 0.5                           n  1080  win   50%  PF 1.54  net  +2841  dd  401  worst   -96  2024 146 / 37% / -194   2026 100 / 39% / +67    exits {'TIME': 1071, 'SL': 9}
+exit 15:10 sl 0.5                            n  1026  win   53%  PF 1.79  net  +3507  dd  306  worst   -96  2024 142 / 38% / -92    2026 94 / 40% / +14     exits {'SQOFF': 814, 'TIME': 204, 'SL': 8}
+exit 13:30 sl 0.5                            n  1026  win   43%  PF 1.58  net  +2352  dd  416  worst   -95  2024 142 / 27% / -239   2026 94 / 28% / +5      exits {'TIME': 1020, 'SL': 6}
+dte 0 only sl 0.5                            n   209  win   86%  PF 6.48  net  +4397  dd  113  worst   -83  2024 27 / 74% / +376    2026 17 / 94% / +435    exits {'TIME': 204, 'SL': 5}
+dte 1-2 sl 0.5                               n   436  win   67%  PF 1.80  net  +1027  dd  251  worst   -95  2024 60 / 43% / -62     2026 40 / 57% / -72     exits {'TIME': 434, 'SL': 2}
+dte 3-6 sl 0.5                               n   382  win   11%  PF 0.03  net  -2199  dd 2199  worst   -96  2024 56 / 2% / -454     2026 37 / 0% / -275     exits {'TIME': 381, 'SL': 1}
+no gap/move filter sl 0.5                    n  1300  win   49%  PF 1.51  net  +3242  dd  490  worst   -96  2024 167 / 34% / -288   2026 128 / 41% / +20    exits {'TIME': 1285, 'SL': 15}
+no vix filters sl 0.5                        n  1081  win   50%  PF 1.79  net  +3568  dd  377  worst   -96  2024 151 / 34% / -172   2026 96 / 42% / +107    exits {'TIME': 1073, 'SL': 8}
+no adx filter sl 0.5                         n  1368  win   48%  PF 1.56  net  +3449  dd  507  worst   -96  2024 190 / 32% / -241   2026 128 / 38% / +112   exits {'TIME': 1357, 'SL': 11}
+adx 25 sl 0.5                                n   708  win   49%  PF 1.59  net  +1821  dd  398  worst   -96  2024 104 / 30% / -218   2026 61 / 44% / +36     exits {'TIME': 702, 'SL': 6}
+cost 10 sl 0.5                               n  1026  win   37%  PF 0.87  net   -876  dd 1584  worst  -100  2024 142 / 25% / -704   2026 94 / 30% / -289    exits {'TIME': 1018, 'SL': 8}
+no filters at all sl 0.5                     n  1961  win   47%  PF 1.37  net  +3656  dd 1146  worst   -96  2024 246 / 33% / -583   2026 189 / 37% / -146   exits {'TIME': 1940, 'SL': 21}

@@ -1,0 +1,15 @@
+176091 bars, replay from 2018-01-01 09:15:00+05:30
+dte<=2 wing300 sl.5 iv1.05                   n   436  win   83%  PF 5.27  net  +5784  dd  121  worst   -88  2024 52 / 77% / +501    2026 34 / 88% / +503    exits {'TIME': 430, 'SL': 6}
+dte<=2 wing300 sl.5 iv1.00                   n   436  win   82%  PF 4.58  net  +5412  dd  123  worst   -86  2024 52 / 75% / +462    2026 34 / 88% / +485    exits {'TIME': 428, 'SL': 8}
+dte<=2 wing300 sl.5 iv0.95                   n   436  win   80%  PF 3.95  net  +4992  dd  127  worst   -84  2024 52 / 71% / +415    2026 34 / 88% / +462    exits {'TIME': 428, 'SL': 8}
+dte<=2 wing400 sl.5 iv1.05                   n   436  win   88%  PF 8.33  net  +9035  dd  101  worst  -101  2024 52 / 87% / +1022   2026 34 / 91% / +875    exits {'TIME': 430, 'SL': 6}
+dte<=2 wing400 sl.5 iv1.00                   n   436  win   86%  PF 7.10  net  +8399  dd   98  worst   -98  2024 52 / 87% / +948    2026 34 / 91% / +833    exits {'TIME': 429, 'SL': 7}
+dte<=2 wing500 sl.5 iv1.05                   n   436  win   90%  PF 10.30  net +11020  dd  109  worst  -109  2024 52 / 90% / +1375   2026 34 / 94% / +1130   exits {'TIME': 430, 'SL': 6}
+dte<=2 wing400 sl.35                         n   436  win   88%  PF 8.38  net  +9042  dd   72  worst   -72  2024 52 / 87% / +965    2026 34 / 91% / +875    exits {'TIME': 424, 'SL': 12}
+dte<=2 wing400 cost 10                       n   436  win   85%  PF 5.96  net  +7291  dd  115  worst  -105  2024 52 / 85% / +814    2026 34 / 88% / +739    exits {'TIME': 430, 'SL': 6}
+dte<=2 wing400 expiry exit 14:45             n   436  win   85%  PF 6.48  net +11117  dd  181  worst  -101  2024 52 / 81% / +1097   2026 34 / 91% / +1112   exits {'TIME': 316, 'TP': 103, 'SL': 17}
+dte<=2 wing400 entry 10:15                   n   406  win   87%  PF 6.65  net  +7489  dd  114  worst   -97  2024 45 / 89% / +968    2026 33 / 91% / +747    exits {'TIME': 400, 'SL': 6}
+dte<=2 wing400 no filters                    n   789  win   85%  PF 5.41  net +15082  dd  266  worst  -117  2024 96 / 80% / +1511   2026 80 / 79% / +1389   exits {'TIME': 772, 'SL': 17}
+dte<=1 wing400                               n   209  win   89%  PF 8.60  net  +5886  dd   99  worst   -93  2024 27 / 81% / +651    2026 17 / 94% / +646    exits {'TIME': 204, 'SL': 5}
+dte 0 wing400                                n   209  win   89%  PF 8.60  net  +5886  dd   99  worst   -93  2024 27 / 81% / +651    2026 17 / 94% / +646    exits {'TIME': 204, 'SL': 5}
+dte 0 wing300                                n   209  win   86%  PF 6.48  net  +4397  dd  113  worst   -83  2024 27 / 74% / +376    2026 17 / 94% / +435    exits {'TIME': 204, 'SL': 5}

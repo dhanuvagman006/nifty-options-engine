@@ -1,0 +1,10 @@
+176091 bars, replay from 2018-01-01 09:15:00+05:30
+A: no gap, no adx                            n   676  win   86%  PF 6.01  net +13093  dd  153  worst  -101  2024 81 / 81% / +1506   2026 66 / 82% / +1339   exits {'TIME': 664, 'SL': 12}
+B: A + expiry exit 14:45                     n   679  win   84%  PF 5.55  net +16530  dd  183  worst  -101  2024 81 / 78% / +1893   2026 67 / 84% / +1803   exits {'TIME': 489, 'TP': 164, 'SL': 26}
+C: B + wing 500                              n   679  win   86%  PF 6.42  net +19259  dd  180  worst  -114  2024 81 / 78% / +2324   2026 67 / 90% / +2288   exits {'TIME': 478, 'TP': 175, 'SL': 26}
+D: no filters + expiry exit 14:45            n   793  win   83%  PF 4.70  net +18853  dd  338  worst  -117  2024 96 / 77% / +1954   2026 81 / 77% / +1808   exits {'TIME': 568, 'TP': 186, 'SL': 39}
+E: A + wing 500                              n   676  win   88%  PF 7.28  net +16025  dd  160  worst  -114  2024 81 / 84% / +2022   2026 66 / 89% / +1797   exits {'TIME': 664, 'SL': 12}
+F: A + dte<=3                                n  1019  win   83%  PF 4.79  net +14098  dd  153  worst  -117  2024 129 / 78% / +1448  2026 104 / 77% / +1295  exits {'TIME': 1006, 'SL': 13}
+G: B + sl 0.35                               n   680  win   83%  PF 5.99  net +16714  dd  133  worst   -80  2024 81 / 78% / +2001   2026 67 / 81% / +1669   exits {'TIME': 476, 'TP': 164, 'SL': 40}
+H: B iv x1.00                                n   679  win   82%  PF 4.71  net +14997  dd  180  worst  -102  2024 81 / 77% / +1736   2026 67 / 79% / +1573   exits {'TIME': 491, 'TP': 158, 'SL': 30}
+I: B cost 10                                 n   679  win   81%  PF 4.36  net +13814  dd  203  worst  -105  2024 81 / 75% / +1569   2026 67 / 79% / +1535   exits {'TIME': 489, 'TP': 164, 'SL': 26}

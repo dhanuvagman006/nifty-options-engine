@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.2
+pyarrow>=16
+numba>=0.60
+growwapi
+pyotp
+requests
+pytest>=8

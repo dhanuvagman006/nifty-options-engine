@@ -1,0 +1,95 @@
+# Nifty options signal engine - overrides for defaults in nifty_signals/config.py
+# Only keys you want to change need to be present.
+
+[data]
+use_chain = true            # option-chain vetoes and flow factors (needs Groww market-data access)
+history_days = 90           # 5m history to load (Groww serves from 2020, fetched in 30-day chunks)
+
+[groww]
+# Paste ONE of: access_token, api_key + api_secret, or totp_token + totp_secret.
+# Env vars GROWW_ACCESS_TOKEN / GROWW_API_KEY / GROWW_API_SECRET / GROWW_TOTP_TOKEN / GROWW_TOTP_SECRET also work.
+access_token = ""
+api_key = ""
+api_secret = ""
+totp_token = ""
+totp_secret = ""
+groww_symbol = "NSE-NIFTY"
+vix_symbol = "NSE-INDIAVIX"
+underlying = "NIFTY"
+
+[session]
+entry_start = "09:30"
+entry_end = "14:45"
+square_off = "15:10"
+weekly_expiry_weekday = 1   # Tuesday
+
+[filt]
+# "iron_fly"   = defined-risk premium selling (the research-backed default, see [sell])
+# "pa_short"   = price-action short setups expressed as bought puts (spot edge is real, option expression is thin)
+# "confluence" = v1 multi-factor option buying (kept for comparison; loses over 9 years)
+strategy = "iron_fly"       # maximises profit over 9 years (README "Backtest results"); pa_short = buying only
+sl_atr = 1.0
+sl_min_atr = 1.0
+t1_r = 1.5
+t2_r = 3.0
+time_stop_bars = 24
+exit_on_flip = false        # pa_short: the supertrend-flip exit cut the 3R winners the edge depends on
+breakeven_after_t1 = false
+pa_entry_start = "09:30"
+pa_entry_end = "12:00"      # afternoon entries lost in every test
+pa_triggers = "vwap_reject,pdh_sweep,pdl_break"   # vwap_reclaim (the most frequent) has no edge in option form
+score_threshold = 70.0
+min_categories = 4
+max_signals_per_day = 4
+vix_max = 24.0
+iv_cap = 24.0
+
+[sell]
+# Weekly NIFTY iron fly: sell ATM CE + PE, buy wings wing_pts away. One structure per session.
+entry_time = "09:45"        # new structures may be sold on any bar closing between entry_time and last_entry_time
+last_entry_time = "13:00"
+expiry_last_entry_time = "13:00"
+reentry_cooldown_bars = 3   # after any exit, wait this many bars before selling again (re-centred at the new ATM)
+reentry_after_sl = true
+exit_time = "14:45"         # closed by this bar; expiry day by expiry_exit_time
+expiry_exit_time = "14:45"  # hold into expiry afternoon: +25% net in the sweep, more stop-outs (sl_mult covers them)
+dte_min = 0.0               # trading days to expiry allowed (0 = expiry day itself)
+dte_max = 2.0               # => only expiry day and the session before (at 3-6 DTE the wings decay as fast as the straddle)
+wing_pts = 400              # ~1.5-2 sd of the 1-day expected move; 300 keeps more theta in the wings, 500 widens the tail
+tp_frac = 0.5               # close when this fraction of the credit has decayed
+sl_mult = 0.35              # close when the loss reaches this x credit (best drawdown in the sweeps; wings cap it anyway)
+gap_max_pct = 100.0         # gap filter OFF: it only removed profitable days in the 9-year sweep (0.6 to enable)
+open_move_max_pct = 0.45    # ... or that have already moved > 0.45% from the open by entry time
+vix_min = 9.0
+vix_max = 24.0
+vix_spike_ratio = 1.3       # skip when VIX / 20-day mean > 1.3
+adx_max = 100.0             # ADX filter OFF: same finding (32 to enable)
+event_dates = []            # e.g. ["2026-02-01", "2026-06-05"]  budget / policy / results days to skip
+cost_pts = 6.0              # round-trip cost per structure in index points (4 legs: spread + brokerage)
+margin_per_lot = 40000      # approximate hedged margin per lot, used for return-on-margin reporting
+max_structures_per_day = 3
+
+[opt]
+lot_size = 75
+strike_step = 50
+itm_strikes = 6             # 300 pts in the money (delta ~0.85): keeps most of the spot move, little time value
+max_premium = 600
+slippage_pts = 1.0          # backtest fill cost per side in points (ITM spread)
+capital = 100000     # sizing: lots = capital // sell.margin_per_lot (capped by exec.max_lots)
+risk_per_trade_pct = 1.0
+
+[exec]
+enabled = true              # true = send every signal to the executor
+mode = "paper"              # "paper" logs orders to logs/orders.jsonl; "live" places real MIS orders on Groww
+max_lots = 1
+max_trades_per_day = 3
+max_daily_loss = 5000       # rupees of realised loss after which no new entries are taken that day (5% of 1 lakh)
+kill_file = "STOP"          # create an empty file named STOP in this folder to halt and flatten
+
+[alert]
+console = true
+file = "logs/signals.jsonl"
+verbose = false
+# webhook_url = "https://..."
+# telegram_token = ""
+# telegram_chat_id = ""

@@ -1,0 +1,339 @@
+05-Jan 09:40  SELL IRON FLY NIFTY 26300  wings 25900/26700  credit 164.6  TP 82  SL 222  x2 lot  | spot 26279 | exp 06-Jan
+           legs S26300CE@87.4 S26300PE@95.0 B26700CE@8.6 B25900PE@9.1
+           executor: day P&L Rs +0  trades today 1
+05-Jan 14:40  EXIT IRON FLY NIFTY 26300  @137.4  TIME  +13% of credit  | spot 26257
+           executor: day P&L Rs +2,041  trades today 1
+06-Jan 09:40  SELL IRON FLY NIFTY 26200  wings 25800/26600  credit 130.5  TP 65  SL 176  x2 lot  | spot 26199 | exp 06-Jan
+           legs S26200CE@69.8 S26200PE@64.1 B26600CE@1.9 B25800PE@1.5
+           executor: day P&L Rs +0  trades today 1
+06-Jan 14:40  EXIT IRON FLY NIFTY 26200  @65.1  TP  +46% of credit  | spot 26150
+           executor: day P&L Rs +4,909  trades today 1
+12-Jan 09:40  SELL IRON FLY NIFTY 25550  wings 25150/25950  credit 179.3  TP 90  SL 242  x2 lot  | spot 25558 | exp 13-Jan
+           legs S25550CE@112.9 S25550PE@92.6 B25950CE@15.4 B25150PE@10.9
+           executor: day P&L Rs +0  trades today 1
+12-Jan 14:40  EXIT IRON FLY NIFTY 25550  @215.6  TIME  -24% of credit  | spot 25761
+           executor: day P&L Rs -2,725  trades today 1
+13-Jan 10:25  SELL IRON FLY NIFTY 25800  wings 25400/26200  credit 135.8  TP 68  SL 183  x2 lot  | spot 25799 | exp 13-Jan
+           legs S25800CE@72.3 S25800PE@67.4 B26200CE@2.2 B25400PE@1.7
+           executor: day P&L Rs +0  trades today 1
+13-Jan 14:20  EXIT IRON FLY NIFTY 25800  @183.3  SL  -39% of credit  | spot 25615
+           executor: day P&L Rs -3,607  trades today 1
+19-Jan 09:40  SELL IRON FLY NIFTY 25550  wings 25150/25950  credit 184.3  TP 92  SL 249  x2 lot  | spot 25566 | exp 20-Jan
+           legs S25550CE@121.4 S25550PE@93.0 B25950CE@18.3 B25150PE@11.8
+           executor: day P&L Rs +0  trades today 1
+19-Jan 14:40  EXIT IRON FLY NIFTY 25550  @161.8  TIME  +9% of credit  | spot 25615
+           executor: day P&L Rs +1,689  trades today 1
+20-Jan 09:40  SELL IRON FLY NIFTY 25450  wings 25050/25850  credit 147.9  TP 74  SL 200  x2 lot  | spot 25468 | exp 20-Jan
+           legs S25450CE@89.2 S25450PE@65.5 B25850CE@4.4 B25050PE@2.4
+           executor: day P&L Rs +0  trades today 1
+20-Jan 14:40  EXIT IRON FLY NIFTY 25450  @109.7  TIME  +22% of credit  | spot 25344
+           executor: day P&L Rs +2,867  trades today 1
+23-Jan 09:40  SELL IRON FLY NIFTY 25300  wings 24900/25700  credit 201.6  TP 101  SL 272  x2 lot  | spot 25286 | exp 27-Jan
+           legs S25300CE@123.0 S25300PE@124.7 B25700CE@23.4 B24900PE@22.7
+           executor: day P&L Rs +0  trades today 1
+23-Jan 14:40  EXIT IRON FLY NIFTY 25300  @219.2  TIME  -12% of credit  | spot 25084
+           executor: day P&L Rs -1,324  trades today 1
+27-Jan 09:40  SELL IRON FLY NIFTY 25150  wings 24750/25550  credit 168.3  TP 84  SL 227  x2 lot  | spot 25148 | exp 27-Jan
+           legs S25150CE@92.8 S25150PE@89.1 B25550CE@7.3 B24750PE@6.4
+           executor: day P&L Rs +0  trades today 1
+27-Jan 14:40  EXIT IRON FLY NIFTY 25150  @85.4  TIME  +46% of credit  | spot 25088
+           executor: day P&L Rs +6,216  trades today 1
+02-Feb 09:40  SELL IRON FLY NIFTY 24850  wings 24450/25250  credit 202.7  TP 101  SL 274  x2 lot  | spot 24865 | exp 03-Feb
+           legs S24850CE@138.5 S24850PE@111.0 B25250CE@27.6 B24450PE@19.2
+           executor: day P&L Rs +0  trades today 1
+02-Feb 14:40  EXIT IRON FLY NIFTY 24850  @187.5  TIME  +5% of credit  | spot 24955
+           executor: day P&L Rs +1,137  trades today 1
+09-Feb 09:40  SELL IRON FLY NIFTY 25800  wings 25400/26200  credit 190.4  TP 95  SL 257  x2 lot  | spot 25793 | exp 10-Feb
+           legs S25800CE@116.0 S25800PE@110.0 B26200CE@18.9 B25400PE@16.6
+           executor: day P&L Rs +0  trades today 1
+09-Feb 14:40  EXIT IRON FLY NIFTY 25800  @164.7  TIME  +10% of credit  | spot 25844
+           executor: day P&L Rs +1,932  trades today 1
+10-Feb 09:40  SELL IRON FLY NIFTY 25950  wings 25550/26350  credit 153.0  TP 76  SL 207  x2 lot  | spot 25949 | exp 10-Feb
+           legs S25950CE@83.5 S25950PE@77.8 B26350CE@4.6 B25550PE@3.8
+           executor: day P&L Rs +0  trades today 1
+10-Feb 14:15  EXIT IRON FLY NIFTY 25950  @74.7  TP  +47% of credit  | spot 25943
+           executor: day P&L Rs +5,872  trades today 1
+13-Feb 09:40  SELL IRON FLY NIFTY 25550  wings 25150/25950  credit 187.8  TP 94  SL 253  x2 lot  | spot 25561 | exp 16-Feb
+           legs S25550CE@122.2 S25550PE@98.6 B25950CE@19.4 B25150PE@13.5
+           executor: day P&L Rs +0  trades today 1
+13-Feb 14:40  EXIT IRON FLY NIFTY 25550  @159.1  TIME  +12% of credit  | spot 25512
+           executor: day P&L Rs +2,148  trades today 1
+16-Feb 09:40  SELL IRON FLY NIFTY 25450  wings 25050/25850  credit 161.8  TP 81  SL 218  x2 lot  | spot 25461 | exp 16-Feb
+           legs S25450CE@94.9 S25450PE@78.1 B25850CE@6.7 B25050PE@4.5
+           executor: day P&L Rs +0  trades today 1
+16-Feb 14:40  EXIT IRON FLY NIFTY 25450  @197.0  TIME  -25% of credit  | spot 25646
+           executor: day P&L Rs -2,638  trades today 1
+23-Feb 09:40  SELL IRON FLY NIFTY 25750  wings 25350/26150  credit 211.7  TP 106  SL 286  x2 lot  | spot 25730 | exp 24-Feb
+           legs S25750CE@132.2 S25750PE@139.1 B26150CE@29.4 B25350PE@30.1
+           executor: day P&L Rs +0  trades today 1
+23-Feb 14:40  EXIT IRON FLY NIFTY 25750  @189.1  TIME  +8% of credit  | spot 25670
+           executor: day P&L Rs +1,689  trades today 1
+27-Feb 09:40  SELL IRON FLY NIFTY 25350  wings 24950/25750  credit 199.7  TP 100  SL 270  x2 lot  | spot 25364 | exp 02-Mar
+           legs S25350CE@135.5 S25350PE@108.4 B25750CE@26.1 B24950PE@18.1
+           executor: day P&L Rs +0  trades today 1
+27-Feb 14:40  EXIT IRON FLY NIFTY 25350  @173.1  TIME  +10% of credit  | spot 25294
+           executor: day P&L Rs +1,990  trades today 1
+02-Mar 12:10  SELL IRON FLY NIFTY 24750  wings 24350/25150  credit 128.5  TP 64  SL 174  x2 lot  | spot 24745 | exp 02-Mar
+           legs S24750CE@64.3 S24750PE@66.4 B25150CE@1.1 B24350PE@1.0
+           executor: day P&L Rs +0  trades today 1
+02-Mar 14:40  EXIT IRON FLY NIFTY 24750  @121.5  TIME  +1% of credit  | spot 24865
+           executor: day P&L Rs +528  trades today 1
+17-Mar 09:40  SELL IRON FLY NIFTY 23450  wings 23050/23850  credit 213.2  TP 107  SL 288  x2 lot  | spot 23453 | exp 17-Mar
+           legs S23450CE@133.6 S23450PE@124.8 B23850CE@24.3 B23050PE@20.8
+           executor: day P&L Rs +0  trades today 1
+17-Mar 14:40  EXIT IRON FLY NIFTY 23450  @152.6  TIME  +26% of credit  | spot 23587
+           executor: day P&L Rs +4,546  trades today 1
+10-Apr 09:40  SELL IRON FLY NIFTY 23950  wings 23550/24350  credit 243.4  TP 122  SL 329  x2 lot  | spot 23948 | exp 13-Apr
+           legs S23950CE@184.6 S23950PE@174.5 B24350CE@61.1 B23550PE@54.6
+           executor: day P&L Rs +0  trades today 1
+10-Apr 14:40  EXIT IRON FLY NIFTY 23950  @219.9  TIME  +7% of credit  | spot 23983
+           executor: day P&L Rs +1,757  trades today 1
+13-Apr 09:40  SELL IRON FLY NIFTY 23650  wings 23250/24050  credit 197.3  TP 99  SL 266  x2 lot  | spot 23634 | exp 13-Apr
+           legs S23650CE@108.3 S23650PE@119.1 B24050CE@14.4 B23250PE@15.7
+           executor: day P&L Rs +0  trades today 1
+13-Apr 14:40  EXIT IRON FLY NIFTY 23650  @215.6  TIME  -12% of credit  | spot 23866
+           executor: day P&L Rs -1,373  trades today 1
+20-Apr 09:40  SELL IRON FLY NIFTY 24300  wings 23900/24700  credit 226.6  TP 113  SL 306  x2 lot  | spot 24303 | exp 21-Apr
+           legs S24300CE@161.0 S24300PE@146.1 B24700CE@43.7 B23900PE@36.7
+           executor: day P&L Rs +0  trades today 1
+20-Apr 14:40  EXIT IRON FLY NIFTY 24300  @208.6  TIME  +5% of credit  | spot 24401
+           executor: day P&L Rs +1,348  trades today 1
+21-Apr 09:40  SELL IRON FLY NIFTY 24450  wings 24050/24850  credit 200.9  TP 100  SL 271  x2 lot  | spot 24467 | exp 21-Apr
+           legs S24450CE@128.7 S24450PE@106.2 B24850CE@19.9 B24050PE@14.1
+           executor: day P&L Rs +0  trades today 1
+21-Apr 14:40  EXIT IRON FLY NIFTY 24450  @113.9  TIME  +40% of credit  | spot 24535
+           executor: day P&L Rs +6,530  trades today 1
+27-Apr 09:40  SELL IRON FLY NIFTY 24050  wings 23650/24450  credit 240.0  TP 120  SL 324  x2 lot  | spot 24045 | exp 28-Apr
+           legs S24050CE@177.6 S24050PE@170.2 B24450CE@56.5 B23650PE@51.3
+           executor: day P&L Rs +0  trades today 1
+27-Apr 14:40  EXIT IRON FLY NIFTY 24050  @217.9  TIME  +7% of credit  | spot 24111
+           executor: day P&L Rs +1,661  trades today 1
+28-Apr 09:40  SELL IRON FLY NIFTY 24150  wings 23750/24550  credit 196.6  TP 98  SL 265  x2 lot  | spot 24128 | exp 28-Apr
+           legs S24150CE@105.3 S24150PE@121.2 B24550CE@13.8 B23750PE@16.1
+           executor: day P&L Rs +0  trades today 1
+28-Apr 14:40  EXIT IRON FLY NIFTY 24150  @131.5  TIME  +30% of credit  | spot 24032
+           executor: day P&L Rs +4,886  trades today 1
+04-May 10:20  SELL IRON FLY NIFTY 24150  wings 23750/24550  credit 231.2  TP 116  SL 312  x2 lot  | spot 24151 | exp 05-May
+           legs S24150CE@165.4 S24150PE@152.7 B24550CE@46.7 B23750PE@40.2
+           executor: day P&L Rs +0  trades today 1
+04-May 14:40  EXIT IRON FLY NIFTY 24150  @209.4  TIME  +7% of credit  | spot 24096
+           executor: day P&L Rs +1,633  trades today 1
+05-May 09:40  SELL IRON FLY NIFTY 24000  wings 23600/24400  credit 195.4  TP 98  SL 264  x2 lot  | spot 24014 | exp 05-May
+           legs S24000CE@122.0 S24000PE@102.5 B24400CE@16.9 B23600PE@12.2
+           executor: day P&L Rs +0  trades today 1
+05-May 14:30  EXIT IRON FLY NIFTY 24000  @97.3  TP  +47% of credit  | spot 24036
+           executor: day P&L Rs +7,356  trades today 1
+11-May 09:40  SELL IRON FLY NIFTY 23850  wings 23450/24250  credit 222.8  TP 111  SL 301  x2 lot  | spot 23866 | exp 12-May
+           legs S23850CE@161.6 S23850PE@134.0 B24250CE@41.8 B23450PE@31.0
+           executor: day P&L Rs +0  trades today 1
+11-May 14:40  EXIT IRON FLY NIFTY 23850  @199.5  TIME  +8% of credit  | spot 23916
+           executor: day P&L Rs +1,748  trades today 1
+12-May 09:40  SELL IRON FLY NIFTY 23650  wings 23250/24050  credit 195.1  TP 98  SL 263  x2 lot  | spot 23641 | exp 12-May
+           legs S23650CE@110.0 S23650PE@113.6 B24050CE@14.3 B23250PE@14.2
+           executor: day P&L Rs +0  trades today 1
+12-May 14:40  EXIT IRON FLY NIFTY 23650  @187.5  TIME  +1% of credit  | spot 23464
+           executor: day P&L Rs +576  trades today 1
+18-May 10:15  SELL IRON FLY NIFTY 23400  wings 23000/23800  credit 230.6  TP 115  SL 311  x2 lot  | spot 23385 | exp 19-May
+           legs S23400CE@155.3 S23400PE@159.3 B23800CE@42.2 B23000PE@41.7
+           executor: day P&L Rs +0  trades today 1
+18-May 14:40  EXIT IRON FLY NIFTY 23400  @234.5  TIME  -4% of credit  | spot 23603
+           executor: day P&L Rs -290  trades today 1
+19-May 09:40  SELL IRON FLY NIFTY 23750  wings 23350/24150  credit 202.8  TP 101  SL 274  x2 lot  | spot 23749 | exp 19-May
+           legs S23750CE@121.3 S23750PE@116.4 B24150CE@18.5 B23350PE@16.4
+           executor: day P&L Rs +0  trades today 1
+19-May 14:40  EXIT IRON FLY NIFTY 23750  @117.8  TIME  +39% of credit  | spot 23657
+           executor: day P&L Rs +6,368  trades today 1
+25-May 09:40  SELL IRON FLY NIFTY 23950  wings 23550/24350  credit 229.6  TP 115  SL 310  x2 lot  | spot 23948 | exp 26-May
+           legs S23950CE@162.1 S23950PE@152.7 B24350CE@45.2 B23550PE@39.9
+           executor: day P&L Rs +0  trades today 1
+25-May 14:40  EXIT IRON FLY NIFTY 23950  @206.2  TIME  +8% of credit  | spot 24008
+           executor: day P&L Rs +1,758  trades today 1
+26-May 09:40  SELL IRON FLY NIFTY 24050  wings 23650/24450  credit 184.0  TP 92  SL 248  x2 lot  | spot 24062 | exp 26-May
+           legs S24050CE@111.7 S24050PE@93.6 B24450CE@12.5 B23650PE@8.8
+           executor: day P&L Rs +0  trades today 1
+26-May 14:40  EXIT IRON FLY NIFTY 24050  @155.5  TIME  +12% of credit  | spot 23898
+           executor: day P&L Rs +2,141  trades today 1
+01-Jun 09:40  SELL IRON FLY NIFTY 23600  wings 23200/24000  credit 217.2  TP 109  SL 293  x2 lot  | spot 23577 | exp 02-Jun
+           legs S23600CE@134.4 S23600PE@145.9 B24000CE@30.6 B23200PE@32.6
+           executor: day P&L Rs +0  trades today 1
+01-Jun 14:40  EXIT IRON FLY NIFTY 23600  @216.3  TIME  -2% of credit  | spot 23417
+           executor: day P&L Rs +66  trades today 1
+02-Jun 09:40  SELL IRON FLY NIFTY 23300  wings 22900/23700  credit 178.7  TP 89  SL 241  x2 lot  | spot 23302 | exp 02-Jun
+           legs S23300CE@102.1 S23300PE@94.5 B23700CE@9.8 B22900PE@8.0
+           executor: day P&L Rs +0  trades today 1
+02-Jun 14:20  EXIT IRON FLY NIFTY 23300  @241.3  SL  -38% of credit  | spot 23542
+           executor: day P&L Rs -4,441  trades today 1
+08-Jun 09:40  SELL IRON FLY NIFTY 23150  wings 22750/23550  credit 212.6  TP 106  SL 287  x2 lot  | spot 23159 | exp 09-Jun
+           legs S23150CE@144.7 S23150PE@124.0 B23550CE@31.8 B22750PE@24.3
+           executor: day P&L Rs +0  trades today 1
+08-Jun 14:40  EXIT IRON FLY NIFTY 23150  @184.9  TIME  +10% of credit  | spot 23180
+           executor: day P&L Rs +2,080  trades today 1
+09-Jun 09:40  SELL IRON FLY NIFTY 23200  wings 22800/23600  credit 181.9  TP 91  SL 246  x2 lot  | spot 23197 | exp 09-Jun
+           legs S23200CE@101.9 S23200PE@99.5 B23600CE@10.3 B22800PE@9.2
+           executor: day P&L Rs +0  trades today 1
+09-Jun 14:20  EXIT IRON FLY NIFTY 23200  @90.0  TP  +47% of credit  | spot 23195
+           executor: day P&L Rs +6,892  trades today 1
+15-Jun 09:40  SELL IRON FLY NIFTY 23950  wings 23550/24350  credit 208.0  TP 104  SL 281  x2 lot  | spot 23966 | exp 16-Jun
+           legs S23950CE@143.6 S23950PE@116.0 B24350CE@30.3 B23550PE@21.4
+           executor: day P&L Rs +0  trades today 1
+15-Jun 14:40  EXIT IRON FLY NIFTY 23950  @179.0  TIME  +11% of credit  | spot 23924
+           executor: day P&L Rs +2,172  trades today 1
+16-Jun 09:40  SELL IRON FLY NIFTY 23900  wings 23500/24300  credit 164.3  TP 82  SL 222  x2 lot  | spot 23918 | exp 16-Jun
+           legs S23900CE@99.8 S23900PE@76.2 B24300CE@7.3 B23500PE@4.3
+           executor: day P&L Rs +0  trades today 1
+16-Jun 14:40  EXIT IRON FLY NIFTY 23900  @85.8  TIME  +44% of credit  | spot 23965
+           executor: day P&L Rs +5,890  trades today 1
+22-Jun 09:40  SELL IRON FLY NIFTY 24100  wings 23700/24500  credit 193.6  TP 97  SL 261  x2 lot  | spot 24109 | exp 23-Jun
+           legs S24100CE@125.4 S24100PE@104.6 B24500CE@21.0 B23700PE@15.3
+           executor: day P&L Rs +0  trades today 1
+22-Jun 14:40  EXIT IRON FLY NIFTY 24100  @165.7  TIME  +11% of credit  | spot 24135
+           executor: day P&L Rs +2,089  trades today 1
+23-Jun 09:40  SELL IRON FLY NIFTY 24100  wings 23700/24500  credit 151.3  TP 76  SL 204  x2 lot  | spot 24116 | exp 23-Jun
+           legs S24100CE@90.0 S24100PE@68.7 B24500CE@4.7 B23700PE@2.7
+           executor: day P&L Rs +0  trades today 1
+23-Jun 13:30  EXIT IRON FLY NIFTY 24100  @204.3  SL  -39% of credit  | spot 23870
+           executor: day P&L Rs -5,467  trades today 1  HALTED
+29-Jun 09:40  SELL IRON FLY NIFTY 24100  wings 23700/24500  credit 194.0  TP 97  SL 262  x2 lot  | spot 24094 | exp 30-Jun
+           legs S24100CE@118.4 S24100PE@112.4 B24500CE@19.6 B23700PE@17.1
+           executor: day P&L Rs +0  trades today 1
+29-Jun 14:40  EXIT IRON FLY NIFTY 24100  @185.6  TIME  +1% of credit  | spot 23964
+           executor: day P&L Rs +631  trades today 1
+30-Jun 11:10  SELL IRON FLY NIFTY 23950  wings 23550/24350  credit 139.4  TP 70  SL 188  x2 lot  | spot 23938 | exp 30-Jun
+           legs S23950CE@67.8 S23950PE@75.5 B24350CE@1.9 B23550PE@2.1
+           executor: day P&L Rs +0  trades today 1
+30-Jun 14:30  EXIT IRON FLY NIFTY 23950  @68.9  TP  +46% of credit  | spot 23943
+           executor: day P&L Rs +5,289  trades today 1
+06-Jul 09:40  SELL IRON FLY NIFTY 24350  wings 23950/24750  credit 183.9  TP 92  SL 248  x2 lot  | spot 24369 | exp 07-Jul
+           legs S24350CE@121.7 S24350PE@90.6 B24750CE@17.7 B23950PE@10.8
+           executor: day P&L Rs +0  trades today 1
+06-Jul 14:40  EXIT IRON FLY NIFTY 24350  @157.4  TIME  +11% of credit  | spot 24397
+           executor: day P&L Rs +1,986  trades today 1
+07-Jul 09:40  SELL IRON FLY NIFTY 24450  wings 24050/24850  credit 142.5  TP 71  SL 192  x2 lot  | spot 24459 | exp 07-Jul
+           legs S24450CE@81.5 S24450PE@66.4 B24850CE@3.2 B24050PE@2.1
+           executor: day P&L Rs +0  trades today 1
+07-Jul 14:10  EXIT IRON FLY NIFTY 24450  @71.1  TP  +46% of credit  | spot 24461
+           executor: day P&L Rs +5,359  trades today 1
+13-Jul 09:40  SELL IRON FLY NIFTY 24100  wings 23700/24500  credit 186.6  TP 93  SL 252  x2 lot  | spot 24075 | exp 14-Jul
+           legs S24100CE@101.9 S24100PE@114.9 B24500CE@14.2 B23700PE@15.9
+           executor: day P&L Rs +0  trades today 1
+13-Jul 14:40  EXIT IRON FLY NIFTY 24100  @182.0  TIME  -1% of credit  | spot 24228
+           executor: day P&L Rs +345  trades today 1
+14-Jul 09:40  SELL IRON FLY NIFTY 24100  wings 23700/24500  credit 154.9  TP 77  SL 209  x2 lot  | spot 24100 | exp 14-Jul
+           legs S24100CE@84.6 S24100PE@78.6 B24500CE@4.6 B23700PE@3.7
+           executor: day P&L Rs +0  trades today 1
+14-Jul 14:30  EXIT IRON FLY NIFTY 24100  @75.4  TP  +47% of credit  | spot 24057
+           executor: day P&L Rs +5,956  trades today 1
+20-Jul 09:40  SELL IRON FLY NIFTY 24150  wings 23750/24550  credit 195.9  TP 98  SL 265  x2 lot  | spot 24171 | exp 21-Jul
+           legs S24150CE@134.1 S24150PE@100.6 B24550CE@23.8 B23750PE@14.9
+           executor: day P&L Rs +0  trades today 1
+20-Jul 14:40  EXIT IRON FLY NIFTY 24150  @176.7  TIME  +7% of credit  | spot 24237
+           executor: day P&L Rs +1,441  trades today 1
+21-Jul 09:40  SELL IRON FLY NIFTY 24250  wings 23850/24650  credit 152.8  TP 76  SL 206  x2 lot  | spot 24237 | exp 21-Jul
+           legs S24250CE@76.7 S24250PE@83.9 B24650CE@3.7 B23850PE@4.0
+           executor: day P&L Rs +0  trades today 1
+21-Jul 14:40  EXIT IRON FLY NIFTY 24250  @88.6  TIME  +38% of credit  | spot 24173
+           executor: day P&L Rs +4,811  trades today 1
+27-Jul 09:40  SELL IRON FLY NIFTY 23950  wings 23550/24350  credit 202.0  TP 101  SL 273  x2 lot  | spot 23951 | exp 28-Jul
+           legs S23950CE@129.9 S23950PE@116.9 B24350CE@24.6 B23550PE@20.1
+           executor: day P&L Rs +0  trades today 1
+27-Jul 14:40  EXIT IRON FLY NIFTY 23950  @175.9  TIME  +10% of credit  | spot 23996
+           executor: day P&L Rs +1,963  trades today 1
+28-Jul 09:40  SELL IRON FLY NIFTY 24000  wings 23600/24400  credit 149.3  TP 75  SL 202  x2 lot  | spot 24018 | exp 28-Jul
+           legs S24000CE@90.0 S24000PE@66.1 B24400CE@4.4 B23600PE@2.4
+           executor: day P&L Rs +0  trades today 1
+28-Jul 14:10  EXIT IRON FLY NIFTY 24000  @74.1  TP  +46% of credit  | spot 23994
+           executor: day P&L Rs +5,644  trades today 1
+03-Aug 09:40  SELL IRON FLY NIFTY 24550  wings 24150/24950  credit 183.8  TP 92  SL 248  x2 lot  | spot 24558 | exp 04-Aug
+           legs S24550CE@116.4 S24550PE@96.1 B24950CE@16.7 B24150PE@11.9
+           executor: day P&L Rs +0  trades today 1
+03-Aug 14:40  EXIT IRON FLY NIFTY 24550  @158.0  TIME  +11% of credit  | spot 24598
+           executor: day P&L Rs +1,937  trades today 1
+04-Aug 09:40  SELL IRON FLY NIFTY 24600  wings 24200/25000  credit 145.5  TP 73  SL 196  x2 lot  | spot 24624 | exp 04-Aug
+           legs S24600CE@90.5 S24600PE@61.0 B25000CE@4.1 B24200PE@1.9
+           executor: day P&L Rs +0  trades today 1
+04-Aug 14:40  EXIT IRON FLY NIFTY 24600  @143.6  TIME  -3% of credit  | spot 24457
+           executor: day P&L Rs +148  trades today 1
+10-Aug 09:40  SELL IRON FLY NIFTY 24500  wings 24100/24900  credit 188.2  TP 94  SL 254  x2 lot  | spot 24521 | exp 11-Aug
+           legs S24500CE@126.8 S24500PE@93.5 B24900CE@20.0 B24100PE@12.1
+           executor: day P&L Rs +0  trades today 1
+10-Aug 14:40  EXIT IRON FLY NIFTY 24500  @166.4  TIME  +8% of credit  | spot 24572
+           executor: day P&L Rs +1,632  trades today 1
+11-Aug 09:40  SELL IRON FLY NIFTY 24500  wings 24100/24900  credit 147.1  TP 74  SL 199  x2 lot  | spot 24479 | exp 11-Aug
+           legs S24500CE@69.3 S24500PE@84.1 B24900CE@2.8 B24100PE@3.5
+           executor: day P&L Rs +0  trades today 1
+11-Aug 14:40  EXIT IRON FLY NIFTY 24500  @71.5  TP  +47% of credit  | spot 24448
+           executor: day P&L Rs +5,671  trades today 1
+17-Aug 09:40  SELL IRON FLY NIFTY 24300  wings 23900/24700  credit 177.8  TP 89  SL 240  x2 lot  | spot 24301 | exp 18-Aug
+           legs S24300CE@107.7 S24300PE@94.2 B24700CE@13.6 B23900PE@10.5
+           executor: day P&L Rs +0  trades today 1
+17-Aug 14:40  EXIT IRON FLY NIFTY 24300  @150.4  TIME  +12% of credit  | spot 24335
+           executor: day P&L Rs +2,055  trades today 1
+18-Aug 09:40  SELL IRON FLY NIFTY 24200  wings 23800/24600  credit 137.7  TP 69  SL 186  x2 lot  | spot 24225 | exp 18-Aug
+           legs S24200CE@86.2 S24200PE@55.8 B24600CE@3.0 B23800PE@1.2
+           executor: day P&L Rs +0  trades today 1
+18-Aug 14:05  EXIT IRON FLY NIFTY 24200  @68.8  TP  +46% of credit  | spot 24196
+           executor: day P&L Rs +5,165  trades today 1
+24-Aug 09:40  SELL IRON FLY NIFTY 24300  wings 23900/24700  credit 176.5  TP 88  SL 238  x2 lot  | spot 24282 | exp 25-Aug
+           legs S24300CE@96.7 S24300PE@102.9 B24700CE@11.4 B23900PE@11.7
+           executor: day P&L Rs +0  trades today 1
+24-Aug 14:40  EXIT IRON FLY NIFTY 24300  @172.8  TIME  -1% of credit  | spot 24165
+           executor: day P&L Rs +280  trades today 1
+25-Aug 09:40  SELL IRON FLY NIFTY 24150  wings 23750/24550  credit 137.9  TP 69  SL 186  x2 lot  | spot 24155 | exp 25-Aug
+           legs S24150CE@76.4 S24150PE@65.8 B24550CE@2.5 B23750PE@1.8
+           executor: day P&L Rs +0  trades today 1
+25-Aug 14:10  EXIT IRON FLY NIFTY 24150  @67.9  TP  +46% of credit  | spot 24154
+           executor: day P&L Rs +5,249  trades today 1
+31-Aug 09:40  SELL IRON FLY NIFTY 24000  wings 23600/24400  credit 170.9  TP 85  SL 231  x2 lot  | spot 24025 | exp 01-Sep
+           legs S24000CE@113.5 S24000PE@76.9 B24400CE@12.8 B23600PE@6.7
+           executor: day P&L Rs +0  trades today 1
+31-Aug 14:40  EXIT IRON FLY NIFTY 24000  @146.0  TIME  +11% of credit  | spot 24054
+           executor: day P&L Rs +1,868  trades today 1
+01-Sep 09:40  SELL IRON FLY NIFTY 24050  wings 23650/24450  credit 134.2  TP 67  SL 181  x2 lot  | spot 24028 | exp 01-Sep
+           legs S24050CE@60.9 S24050PE@76.8 B24450CE@1.5 B23650PE@2.1
+           executor: day P&L Rs +0  trades today 1
+01-Sep 14:40  EXIT IRON FLY NIFTY 24050  @92.5  TIME  +27% of credit  | spot 23962
+           executor: day P&L Rs +3,124  trades today 1
+07-Sep 09:40  SELL IRON FLY NIFTY 23850  wings 23450/24250  credit 168.7  TP 84  SL 228  x2 lot  | spot 23836 | exp 08-Sep
+           legs S23850CE@92.3 S23850PE@94.5 B24250CE@9.2 B23450PE@8.9
+           executor: day P&L Rs +0  trades today 1
+07-Sep 14:40  EXIT IRON FLY NIFTY 23850  @151.5  TIME  +7% of credit  | spot 23759
+           executor: day P&L Rs +1,286  trades today 1
+08-Sep 09:40  SELL IRON FLY NIFTY 23650  wings 23250/24050  credit 133.3  TP 67  SL 180  x2 lot  | spot 23674 | exp 08-Sep
+           legs S23650CE@83.4 S23650PE@53.4 B24050CE@2.5 B23250PE@1.0
+           executor: day P&L Rs +0  trades today 1
+08-Sep 14:05  EXIT IRON FLY NIFTY 23650  @66.2  TP  +46% of credit  | spot 23648
+           executor: day P&L Rs +5,033  trades today 1
+11-Sep 09:40  SELL IRON FLY NIFTY 23250  wings 22850/23650  credit 178.1  TP 89  SL 240  x2 lot  | spot 23248 | exp 15-Sep
+           legs S23250CE@105.6 S23250PE@95.8 B23650CE@12.9 B22850PE@10.4
+           executor: day P&L Rs +0  trades today 1
+11-Sep 14:40  EXIT IRON FLY NIFTY 23250  @201.8  TIME  -17% of credit  | spot 23434
+           executor: day P&L Rs -1,774  trades today 1
+21-Sep 09:40  SELL IRON FLY NIFTY 23400  wings 23000/23800  credit 174.4  TP 87  SL 235  x2 lot  | spot 23393 | exp 22-Sep
+           legs S23400CE@100.0 S23400PE@95.5 B23800CE@11.3 B23000PE@9.8
+           executor: day P&L Rs +0  trades today 1
+21-Sep 14:40  EXIT IRON FLY NIFTY 23400  @149.6  TIME  +11% of credit  | spot 23450
+           executor: day P&L Rs +1,863  trades today 1
+22-Sep 09:40  SELL IRON FLY NIFTY 23450  wings 23050/23850  credit 131.7  TP 66  SL 178  x2 lot  | spot 23456 | exp 22-Sep
+           legs S23450CE@73.2 S23450PE@61.6 B23850CE@1.9 B23050PE@1.2
+           executor: day P&L Rs +0  trades today 1
+22-Sep 14:40  EXIT IRON FLY NIFTY 23450  @86.4  TIME  +30% of credit  | spot 23369
+           executor: day P&L Rs +3,396  trades today 1
+29-Sep 11:10  SELL IRON FLY NIFTY 22700  wings 22300/23100  credit 133.5  TP 67  SL 180  x2 lot  | spot 22684 | exp 29-Sep
+           legs S22700CE@62.1 S22700PE@74.3 B23100CE@1.3 B22300PE@1.6
+           executor: day P&L Rs +0  trades today 1
+29-Sep 14:35  EXIT IRON FLY NIFTY 22700  @64.3  TP  +47% of credit  | spot 22680
+           executor: day P&L Rs +5,188  trades today 1
+05-Oct 09:40  SELL IRON FLY NIFTY 22600  wings 22200/23000  credit 199.7  TP 100  SL 270  x2 lot  | spot 22582 | exp 06-Oct
+           legs S22600CE@116.7 S22600PE@123.0 B23000CE@19.9 B22200PE@20.2
+           executor: day P&L Rs +0  trades today 1
+05-Oct 14:40  EXIT IRON FLY NIFTY 22600  @171.5  TIME  +11% of credit  | spot 22553
+           executor: day P&L Rs +2,109  trades today 1
+06-Oct 09:40  SELL IRON FLY NIFTY 22600  wings 22200/23000  credit 161.1  TP 81  SL 217  x2 lot  | spot 22613 | exp 06-Oct
+           legs S22600CE@94.9 S22600PE@76.1 B23000CE@6.1 B22200PE@3.8
+           executor: day P&L Rs +0  trades today 1
+06-Oct 14:40  EXIT IRON FLY NIFTY 22600  @110.9  TIME  +27% of credit  | spot 22703
+           executor: day P&L Rs +3,759  trades today 1
+
+paper replay 2026-01-01 -> 2026-10-07: 67 trading days with orders, 58 positive, gross Rs +154,065 at model mid prices on 1 lot (capital 100,000)
+less estimated spread + brokerage (6 pts per structure): net Rs +123,915
+order log: logs/orders_replay.jsonl

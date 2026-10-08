@@ -1,0 +1,14 @@
+# credentials: config.toml holds your Groww keys. Commit config.example.toml instead.
+config.toml
+config.local.toml
+# runtime artefacts
+cache/
+logs/
+data_raw/
+__pycache__/
+*.pyc
+.pytest_cache/
+STOP
+# large/raw parquet anywhere except the curated data/ folder used by the backtests
+*.parquet
+!data/*.parquet

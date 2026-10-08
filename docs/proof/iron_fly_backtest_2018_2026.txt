@@ -1,0 +1,13 @@
+Trades                         680  (2166 sessions, 0.31/session)
+Win rate                       83.2%
+Avg win / loss                 +24.5% / -20.4%
+Profit factor                  5.99
+Expectancy / trade             +17.0%  (+24.6 pts, Rs +1844/lot)
+Net P&L (1 lot)                +16714 pts = Rs +1,253,585
+Return on margin               +3134.0% on Rs 40,000 per lot (679 days)
+Max drawdown (1 lot)           133 pts = Rs 10,009
+Worst trade                    -80 pts = Rs -5,977
+Avg bars held                  57.3
+Exit reasons                   {'TIME': 476, 'TP': 164, 'SL': 40}
+By year (trades / win% / pts)  {2018: '23 / 87% / +429', 2019: '78 / 81% / +1499', 2020: '58 / 91% / +1738', 2021: '89 / 88% / +2540', 2022: '84 / 85% / +2215', 2023: '101 / 82% / +1911', 2024: '81 / 78% / +2001', 2025: '99 / 82% / +2714', 2026: '67 / 81% / +1669'}
+trades written to cache/fly_all.csv

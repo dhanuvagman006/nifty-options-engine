@@ -1,0 +1,9 @@
+176091 bars, replay from 2018-01-01 09:15:00+05:30
+current (flip + breakeven, all day)      n  521  win   42%  PF 0.72  exp  -1.3%  net   -788 pts  dd  830  2026 50 / 42% / -131    exits {'SL': 188, 'FLIP': 185, 'TRAIL': 76, 'T2': 63, 'SQOFF': 6, 'TIME': 3}
+no flip exit                             n  504  win   44%  PF 0.81  exp  -1.0%  net   -629 pts  dd  683  2026 47 / 43% / -111    exits {'SL': 276, 'TRAIL': 137, 'T2': 75, 'SQOFF': 9, 'TIME': 7}
+no flip, no breakeven                    n  504  win   43%  PF 0.81  exp  -1.0%  net   -640 pts  dd  692  2026 47 / 43% / -114    exits {'SL': 276, 'TRAIL': 131, 'T2': 78, 'SQOFF': 12, 'TIME': 7}
+no flip, no BE, no trail                 n  488  win   33%  PF 0.80  exp  -1.1%  net   -682 pts  dd  734  2026 47 / 26% / -166    exits {'SL': 266, 'T2': 128, 'TRAIL': 64, 'SQOFF': 23, 'TIME': 7}
+09:30-10:00 window (post-hoc)            n   58  win   59%  PF 1.33  exp  +1.2%  net    +65 pts  dd   47  2026 3 / 33% / -2       exits {'FLIP': 32, 'SL': 11, 'T2': 8, 'TRAIL': 6, 'TIME': 1}
+09:30-10:00, no flip/BE                  n   58  win   60%  PF 1.72  exp  +3.9%  net   +211 pts  dd   44  2026 3 / 33% / -12      exits {'TRAIL': 22, 'SL': 21, 'T2': 12, 'TIME': 3}
+09:30-11:00, no flip/BE                  n  191  win   49%  PF 0.99  exp  +0.3%  net    -16 pts  dd  191  2026 16 / 31% / -114    exits {'SL': 92, 'TRAIL': 65, 'T2': 28, 'TIME': 6}
+no flip/BE, t1 3.0 (single target)       n  488  win   32%  PF 0.82  exp  -1.2%  net   -753 pts  dd  830  2026 47 / 30% / -124    exits {'SL': 310, 'T2': 96, 'TIME': 66, 'SQOFF': 16}
